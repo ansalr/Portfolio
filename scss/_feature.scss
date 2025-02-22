@@ -115,13 +115,13 @@
 /* Feature Area css
 ============================================================================================ */
 .feature_area{
-	background: #f9f9ff;
+	background: #f2f5f9;
 	&.feature_tow{
-		background: #fff;
+		background: #f2f5f9;
 		.feature_item{
-			background: #f9f9ff;
+			background: #f2f5f9 ;
 			&:hover{
-				background: #fff;
+				background: #f2f5f9;
 			}
 		}
 	}
@@ -133,7 +133,7 @@
 	padding: 50px 35px;
 	border-radius: 10px;
 	@include transition;
-	background: #fff;
+	background: #f2f5f9;
 	margin-bottom: 30px;
 	i{
 		margin-bottom: 35px;
